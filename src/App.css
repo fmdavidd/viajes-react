@@ -1,0 +1,40 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+img{
+  border-radius: 10px;
+}
+.caja{
+  width: 300px;
+  height: 500px;
+  border: 1px white solid;
+  margin-top: 25px;
+  margin-right: 25px;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+}
+p{
+  margin-top: 5px;
+  margin-left: 10px;
+}
+.dias{
+  text-align: center;
+  width: 150px;
+  background-color: rgb(50, 121, 214);
+  color: aliceblue;
+}
+.titulo{
+  color: rgb(95, 95, 95);
+  font-weight: 600;
+  font-size: 20px;
+}
+.precio{
+  color: rgb(95, 95, 95);
+  font-weight: 600;
+  font-size: xx-large
+}
